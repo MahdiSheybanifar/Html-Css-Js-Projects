@@ -1,0 +1,20 @@
+@font-face {
+    font-family: persianIrani;
+    src: url(../fonts/iran.ttf);
+}
+
+*{
+    direction: rtl;
+    font-family: persianIrani;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    margin: 0px;
+    background-color: #e6e5e5;
+}
+
+a{
+    text-decoration: none;
+}
